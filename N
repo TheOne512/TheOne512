@@ -1,0 +1,10 @@
+
+
+ #whois compass-security.com
+
+#dig example.com ns
+
+#dig example.com axfr @n1.example.com
+ 
+%.compass-security.com on https://crt.sh.
+
